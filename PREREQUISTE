@@ -1,0 +1,14 @@
+Graphical User Interface Tool for Installing and Configuring Squid: Proxy Server and Web Cache Daemon
+-----------------------------------------------------------------------------------------------------
+
+Graphical User Interface for installing and configuring Squid
+
+Developer : 	Ashwin Tumma - ashwin.tumma23@gmail.com
+
+Pre-requistes: 
+---------------------
+	1. Linux System on x86 architecture
+	2. Python
+	3. Python-Tk
+
+Steps for installing the softwares are briefly explained in the User Manual.
